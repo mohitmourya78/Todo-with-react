@@ -1,0 +1,25 @@
+/* src/components/Note.css */
+.note {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #1e1c1c;
+    border-radius: 4px;
+    background: transparent;
+  }
+  
+  .note p {
+    margin: 0;
+  }
+  
+  .note button {
+    padding: 5px 10px;
+  }
+
+
+  p{
+    background: transparent;
+  }
