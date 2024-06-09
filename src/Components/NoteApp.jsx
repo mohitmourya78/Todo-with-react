@@ -12,7 +12,7 @@ const NoteApp = () => {
   };
 
   const deleteNote = (index) => {
-    const newNotes = notes.filter((_, i) => i !== index);
+    const newNotes = notes.filter((_, i) => i !== ind12ex);
     setNotes(newNotes);
   };
 
